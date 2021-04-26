@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [olensa.ga](https://olensa.ga)
+<!--- 👨‍💻 All of my projects are available at [olensa.ga](https://olensa.ga)-->
 
 - 📫 How to reach me:   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/olenahlotova21/)

@@ -17,10 +17,11 @@
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/olenahlotova21/)
   [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/lena.glotova.5)
   <a href="mailto:lenaglotova21@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-
+  [<img src ="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" width='3.5%'/>](https://codepen.io/olensa)
+  [<img src ="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" width='3.5%'/>](https://instagram.com/olensa374)
+  
 - 📄 Know about my experiences [olensa.ga](olensa.ga)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/olensa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="olensa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/olenahlotova21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="olenahlotova21" height="30" width="40" /></a>

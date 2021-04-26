@@ -13,7 +13,10 @@
 
 - 👨‍💻 All of my projects are available at [olensa.ga](olensa.ga)
 
-- 📫 How to reach me **lenaglotova21@gmail.com**
+- 📫 How to reach me:   
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/olenahlotova21/)
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/lena.glotova.5)
+  <a href="mailto:lenaglotova21@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 - 📄 Know about my experiences [olensa.ga](olensa.ga)
 

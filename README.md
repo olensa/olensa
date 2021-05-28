@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [telegram bot](https://github.com/olensa/tg_bot)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **AI**
 
 <!--- 👨‍💻 All of my projects are available at [olensa.ga](https://olensa.ga)-->
 

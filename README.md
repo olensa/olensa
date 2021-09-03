@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [telegram bot](https://github.com/olensa/tg_bot)
+<!--- - 🔭 I’m currently working on [telegram bot](https://github.com/olensa/tg_bot)-->
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Linux/Bash**
 
 <!--- 👨‍💻 All of my projects are available at [olensa.ga](https://olensa.ga)-->
 
